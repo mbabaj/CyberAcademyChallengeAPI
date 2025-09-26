@@ -28,7 +28,7 @@ class Resource(models.Model):
 ]
     
     title = models.CharField(
-        max_length=20,
+        max_length=50,
     )
     description = models.TextField(
         max_length=5000,
