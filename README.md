@@ -75,6 +75,7 @@ This API uses **JWT authentication with cookies**. All endpoints require authent
 * **Default Admin Credentials**
     * **Username:** `admin`
     * **Password:** `admin`
+    * Email is not required so leave it blank
 
 * **Registration**
     * **URL:** `/api/auth/registration/`
